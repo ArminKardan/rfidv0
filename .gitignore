@@ -1,0 +1,6 @@
+/push.exe
+/node_modules/*
+/packages/*
+chrome
+/WindowsFormsApp3/bin/*
+/WindowsFormsApp3/obj/*
